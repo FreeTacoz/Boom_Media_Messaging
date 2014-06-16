@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="D:\Users\Kalin Baxes\AndroidStudioProjects\BoomMediaMessaging\Boom\build\intermediates\pre-dexed\debug\support-v13-19.1.0-399b04a322f5287469cfbb8f022cc8f97b49f36d.jar"
+        jar="D:\Users\Kalin Baxes\AppData\Local\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-v13\19.1.0\support-v13-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="6b852a232f642c75a7fdfc7212b841b8c8f8959c"/>
+    <item
+        dex="D:\Users\Kalin Baxes\AndroidStudioProjects\BoomMediaMessaging\Boom\build\intermediates\pre-dexed\debug\support-v4-19.1.0-d6f47f9327c6dbee7d8d8fa297aaf724136ddce1.jar"
+        jar="D:\Users\Kalin Baxes\AppData\Local\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+
+</pre-dex-items>
